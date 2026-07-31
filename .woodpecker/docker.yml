@@ -1,6 +1,6 @@
 labels:
   type: docker
 
-pipeline:
+steps:
 - name: test
   image: hello-world
